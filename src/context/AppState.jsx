@@ -14,7 +14,10 @@ const AppState = (props) => {
     const [userAddress, setUserAddress] = useState('');
 
     // const url = "http://localhost:3000/api";
-    const url = "https://mern-ecommerce-backend-a-pi.vercel.app/api";
+    const url = "https://ecommerce-backend-chi-opal.vercel.app/api";
+
+
+
 
     // Fetch all products 
     useEffect(() => {
