@@ -13,8 +13,8 @@ const AppState = (props) => {
     const [reload, setreload] = useState(false)
     const [userAddress, setUserAddress] = useState('');
 
-    // const url = "http://localhost:3000/api";
-    const url = "https://ecommerce-backend-chi-opal.vercel.app/api";
+    const url = "http://localhost:3000/api";
+    // const url = "https://ecommerce-backend-chi-opal.vercel.app/api";
 
 
 
